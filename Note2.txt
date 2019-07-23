@@ -1,0 +1,44 @@
+EJB - enterprise java beans
+
+Rod Johnson - founder of Spring
+
+Spring 5 WebFlux
+
+spring.io - official website
+
+Goals of Spring
+- lightweight dev of POJO
+- dependency injection to promote loose coupling
+- declarative programming w/ Aspect-Oriented Programming (AOP)
+- minimize boilerplate java code
+
+Core Container
+- Beans
+- Core
+- SpEL - Spring Expression Language
+- Context
+
+Infrastructure
+- AOP
+- Aspects
+- Instrumentation
+- Messaging
+
+Data Access Layer
+- JDBC
+- ORM object to relational mapping
+- Transactions
+- OXM
+- JMS (async)
+
+Web Layer (home of MVC)
+- Servlet
+- Web sockets
+- Web
+- Portlet
+
+Test Layer
+- Unit
+- Integration
+- Mock
+
